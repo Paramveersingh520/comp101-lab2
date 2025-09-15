@@ -1,0 +1,13 @@
+1 HTTP is used to transfer data on web but is not secure.
+  HTTPS is HTTP with encryption which makes communication secures.
+
+2 DNS translates human -friendly names into IP addresses.
+  The IP address is used to locate and communicate with the correct server on the internet.
+
+3 A URL is the address of resource on the web.
+  Parts: protocol(https),domain(www.google.com),path(/page).
+
+4 They tell the browser where to get info on internet.
+
+5 A pathname is a collection of file on your computer(c:\file.txt).
+  A URL is a web address with protocol and domain(https:\\site.com\file.txt).
